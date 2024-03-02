@@ -24,6 +24,9 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/animated-jquery-bulb.git 
    ```
+## Video :
+
+https://github.com/JeremiahRanen7/animated-emoji/assets/141173239/aa87f416-8a7b-4dd6-8bdc-5cfe3d821e02
 
 ## Contributions
 - Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
